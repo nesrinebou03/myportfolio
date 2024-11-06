@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Formation = () => (
-  <section className="cards" id="formation">
+  <section className="formation-cards" id="formation">
         <h2 className="title"> Formation</h2>
          <ul className="formation-liste">
             <li>

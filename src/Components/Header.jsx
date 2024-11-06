@@ -18,7 +18,7 @@ const Header = () => {
         <a href="#contact" onClick={() => setMenuOpen(false)}>Contact</a>
       </nav>
       <div className="hamburger" onClick={toggleMenu}>
-        &#9776; {/* Icône de menu hamburger */}
+        &#9776; 
       </div>
     </header>
   );
