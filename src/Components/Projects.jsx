@@ -118,8 +118,7 @@ const Projects = () => (
             <h3 className="project-title">ArgentBank </h3>
             <p className="project-description">
               Développement d'une application bancaire avec gestion des
-              transactions et authentification sécurisée, pour une expérience
-              utilisateur optimale
+              transactions et authentification sécurisée.
             </p>
             <a
               href="https://github.com/nesrinebou03/p11-front.git"
